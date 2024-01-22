@@ -1,5 +1,5 @@
 * {box-sizing: border-box}
-body { text-align:center;
+body { text-align:center;background-image:url("image/background.png");
 	background-color:#ffcc99;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
