@@ -1,6 +1,6 @@
 * {box-sizing: border-box}
 body { text-align:center;background-image:url("image/background.png");
-	background-color:#ffcc99;
+	background-color:#ce2029;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
 	background-attachment:fixed;}
@@ -19,11 +19,11 @@ h1
 	color:white;
 }
 
-#container2
+#container
 {
 	display:grid;
 	grid-template-columns:33% 33% 33%;
-	gap:4px;
+	gap:0.25px;
 	margin:0% 9%;
 }
 
