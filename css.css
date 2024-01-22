@@ -3,7 +3,7 @@ body { text-align:center;background-image:url("image/background.png");
 	background-color:#ce2029;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
-	}
+	background-attachment:fixed;}
 
 h1
 {
@@ -79,13 +79,13 @@ h1
 #name
 {
 	color:white;
-	font-size:1.5vw;
+	font-size:2vw;
 }
 
 #content
 {
 	color:white;
-	font-size:1.25vw;
+	font-size:1.75vw;
 }
 
 /* Slideshow container */
