@@ -27,8 +27,8 @@ h1
 {
 	display:grid;
 	grid-template-columns:33.33% 33.33% 33.33%;
-	gap:0.25px;
-	margin:0% 9%;
+	gap:1px;
+	margin:0% 4%;
 }
 
 #box
@@ -36,6 +36,7 @@ h1
 	border-style:solid;
 	border-color:white;
 	border-width:1px;
+	height:94%;
 	margin:10px;
 }
 
