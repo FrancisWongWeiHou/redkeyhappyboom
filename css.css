@@ -4,7 +4,8 @@ body { text-align:center;
 	background-color:#cc0000;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
-	background-attachment:fixed;}
+	background-attachment:fixed;
+     background-position:fixed;}
 
 h1
 {
